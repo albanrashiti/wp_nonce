@@ -1,0 +1,21 @@
+{
+  "name": "CreativForm/wp-nonce-function",
+  "description": "Object oriented programming for WP Nonce",
+ 
+  
+  "authors": [
+    {
+      "name": "Alban Rashiti",
+      
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=5.6.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "": "src/"
+    }
+  }
+}
